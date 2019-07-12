@@ -1,2 +1,5 @@
 # mxlib
-一个基于Linux的C++开发类库
+
+一个通用C++开发类库！
+
+[https://open.lucoder.com/mxlib](https://open.lucoder.com/mxlib)
